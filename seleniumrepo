@@ -36,6 +36,9 @@ public class duplicatestring {
 		   }
 	for(String x: map.keySet()) {
 		System.out.println("Duplicate value of the word :" +x+ " = "+map.get(x));
+		
+		//duplcate string
+		
 		}
 	
 
